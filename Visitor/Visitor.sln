@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Visitor.csproj", "{6EC83394-F802-4A52-AC63-8B85832913B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS+EVT", "..\CQRS+EVT\CQRS+EVT.csproj", "{89EE961D-0464-4E26-A8CF-0106B6760D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC83394-F802-4A52-AC63-8B85832913B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC83394-F802-4A52-AC63-8B85832913B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC83394-F802-4A52-AC63-8B85832913B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC83394-F802-4A52-AC63-8B85832913B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EE961D-0464-4E26-A8CF-0106B6760D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EE961D-0464-4E26-A8CF-0106B6760D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EE961D-0464-4E26-A8CF-0106B6760D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EE961D-0464-4E26-A8CF-0106B6760D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {609DAF03-39DF-4E86-8C7F-83FC3300B7B4}
+	EndGlobalSection
+EndGlobal
